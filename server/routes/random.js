@@ -34,3 +34,4 @@ module.exports = router;
 // TODO send incoming object into DB
 // TODO give DB entry random number
 // TODO send same random number to client/DOM
+// TODO SyntaxError: missing ) after argument list line22
